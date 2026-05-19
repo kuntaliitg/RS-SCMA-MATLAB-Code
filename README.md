@@ -1,0 +1,8 @@
+This paper proposes, for the first time, a hybrid multiple access framework that integrates the principles of rate-splitting (RS) and sparse code multiple access (SCMA) in an SISO downlink scenario. The proposed scheme, termed RS-SCMA, unifies the powerful interference management capability of rate-splitting multiple access (RSMA) with the near-optimal multiuser detection of  SCMA. A key feature of RS-SCMA is a tunable splitting factor $\alpha$, which governs the allocation between the generic $M$-ary modulated common messages and SCMA-encoded private messages. This enables dynamic control over the fundamental trade-off between system sum-rate, bit error rate (BER), and the overloading factor. We develop novel transmitter and receiver architectures based on soft successive interference cancellation (SIC), incorporating message passing algorithm (MPA) detection and soft-symbol reconstruction. Furthermore, a unified analytical expression for the achievable sum-rate is derived as a function of the splitting factor $\alpha$. The performance of the proposed RS-SCMA system is evaluated in terms of both BER and sum-rate. Simulation results confirm the superiority of RS-SCMA over conventional SCMA and multi-carrier RSMA, demonstrating its scalability and robustness even in the presence of channel estimation errors.
+
+
+Please cite the following paper:
+
+M. Priyadarsini, Z. Liu, K. Deka, S. K. Sahoo and S. Sharma, "Hybrid Rate-Splitting and Sparse Code Multiple Access (RS-SCMA): Design and Performance," in IEEE Transactions on Communications, vol. 74, pp. 7839-7855, 2026, doi: 10.1109/TCOMM.2026.3686697.
+
+
